@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ld2DYE5tlbcqD9AWd/fyN/OJrB2ry7QisJLhFb+UyEmzhcdc7auDLNhb8/WrQtSohe62ocVQ4i6nbRW5FvcEQ==",
+  "dgSpecHash": "q42313Y16Gj4Q4TxVpDt9rf7KMyApqva0rlzXFmj6Qnw7L8G7ajTRLzHiIr9cm4CfD3LxwDuGkgRKfhImwScvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cleidson.silva\\Desktop\\SalesWebMVC\\SalesWebMVC\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\cleidson.silva\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
