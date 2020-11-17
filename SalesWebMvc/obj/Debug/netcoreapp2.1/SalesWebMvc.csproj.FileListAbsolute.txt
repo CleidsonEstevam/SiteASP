@@ -86,3 +86,4 @@ C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\
 C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
