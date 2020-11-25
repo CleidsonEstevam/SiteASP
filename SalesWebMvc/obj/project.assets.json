@@ -12652,11 +12652,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectPath": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
       "packagesPath": "C:\\Users\\cleidson.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SalesWebMvc\\obj\\",
+      "outputPath": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SiteASP\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
