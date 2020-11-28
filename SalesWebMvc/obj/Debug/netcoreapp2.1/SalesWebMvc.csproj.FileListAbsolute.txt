@@ -136,3 +136,6 @@ C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SiteASP\SalesWebMvc\obj\Debug\netcor
 C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\cleidson.silva\Desktop\ASP\SiteASP\SiteASP\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
