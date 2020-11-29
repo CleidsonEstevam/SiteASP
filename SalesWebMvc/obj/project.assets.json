@@ -12642,27 +12642,25 @@
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.BrowserLink >= 2.1.1",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.10",
-      "Pomelo.EntityFrameworkCore.MySql >= 2.1.1"
+      "Pomelo.EntityFrameworkCore.MySql >= 2.1.1",
+      "System.Linq >= 4.3.0",
+      "System.Threading.Tasks >= 4.3.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cleidson.silva\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\cleid\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\ASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
-      "packagesPath": "C:\\Users\\cleidson.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cleidson.silva\\Desktop\\ASP\\SiteASP\\SiteASP\\SalesWebMvc\\obj\\",
+      "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\ASP\\SiteASP\\SalesWebMvc\\SalesWebMvc.csproj",
+      "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\ASP\\SiteASP\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cleidson.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12674,6 +12672,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -12685,6 +12684,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.AspNetCore": {
             "target": "Package",
@@ -12744,6 +12744,14 @@
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
             "version": "[2.1.1, )"
+          },
+          "System.Linq": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "System.Threading.Tasks": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           }
         },
         "imports": [
@@ -12756,7 +12764,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

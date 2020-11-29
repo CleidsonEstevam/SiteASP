@@ -36,7 +36,9 @@
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.BrowserLink": "2.1.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.10",
-          "Pomelo.EntityFrameworkCore.MySql": "2.1.1"
+          "Pomelo.EntityFrameworkCore.MySql": "2.1.1",
+          "System.Linq": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
         },
         "runtime": {
           "SalesWebMvc.dll": {}

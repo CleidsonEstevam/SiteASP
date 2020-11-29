@@ -61,7 +61,7 @@ namespace SalesWebMvc.Data
             SalesRecord r22 = new SalesRecord(22, new DateTime(2020, 10, 24), 4000.0, SaleStatus.Billed, s4);
             SalesRecord r23 = new SalesRecord(23, new DateTime(2020, 11, 19), 11000.0, SaleStatus.Canceled, s2);
             SalesRecord r24 = new SalesRecord(24, new DateTime(2020, 11, 12), 8000.0, SaleStatus.Billed, s5);
-            SalesRecord r25 = new SalesRecord(25, new DateTime(2020, 11, 31), 7000.0, SaleStatus.Billed, s3);
+          
             SalesRecord r26 = new SalesRecord(26, new DateTime(2020, 11, 6), 5000.0, SaleStatus.Billed, s4);
             SalesRecord r27 = new SalesRecord(27, new DateTime(2020, 11, 13), 9000.0, SaleStatus.Pending, s1);
             SalesRecord r28 = new SalesRecord(28, new DateTime(2020, 11, 7), 4000.0, SaleStatus.Billed, s3);
@@ -75,7 +75,7 @@ namespace SalesWebMvc.Data
             _context.SalesRecord.AddRange(
                 r1, r2, r3, r4, r5, r6, r7, r8, r9, r10,
                 r11, r12, r13, r14, r15, r16, r17, r18, r19, r20,
-                r21, r22, r23, r24, r25, r26, r27, r28, r29, r30
+                r21, r22, r23, r24, r26, r27, r28, r29, r30
             );
 
             _context.SaveChanges();
